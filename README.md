@@ -1,4 +1,4 @@
-# 《深入了解JAVA虚拟机》:see_no_evil:
+# JVM 内存模型 :see_no_evil:
 
 ## 目录
 
